@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html, body {
+  @apply m-0 p-0;
+  font-family: 'Zen Dots', cursive;
+}
+
+h1 {
+  @apply text-3xl font-bold mb-4;
+}
+
+h2 {
+  @apply text-2xl font-bold mb-3;
+}
+
+p {
+  @apply mb-4;
+}
+
+a {
+  @apply text-lg text-white hover:text-gray-300 hover:underline hover:underline-offset-4;
+}
