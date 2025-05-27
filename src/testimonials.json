@@ -1,0 +1,91 @@
+{
+  "testimonials": {
+    "total_rating": 5,
+    "total_reviews": 45,
+    "reviews": [
+      {
+        "id": 1,
+        "student_name": "Marcos",
+        "rating": 5,
+        "review": "Las clases son de lo mejor que esperaba. David se adapta a tus capacidades para elaborar los ejercicios adecuados para tu perfil y te explica cada uno de forma clara y para qué sirven",
+        "david_response": "Marcos es un alumno excelente. Con las cosas muy claras desde el principio, tiene una gran predisposición para conseguir los objetivos."
+      },
+      {
+        "id": 2,
+        "student_name": "María",
+        "rating": 5,
+        "review": "Muy profesional y totalmente recomendable. Sus entrenamientos son siempre motivadores y divertidos, sacando siempre lo mejor de ti.",
+        "david_response": "María tiene desde el principio una predisposición increíble para conseguir lo que quiere. Además en el trato personal es súper agradable dar clases con ella."
+      },
+      {
+        "id": 3,
+        "student_name": "Sergio",
+        "rating": 5,
+        "review": "Desde el principio, David ha ido preparando clases personalizadas para mí, para poder crecer poco a poco desde un nivel de forma muy bajo provocado por varios años sin hacer deporte y vida sedentaria, y tras tres semanas, ya noto el cuerpo más despierto y vamos cumpliendo los objetivos marcados! Lo recomiendo al 100%",
+        "david_response": "Sergio tiene una gran predisposición desde el principio. Conseguiremos los objetivos seguro!"
+      },
+      {
+        "id": 4,
+        "student_name": "Alexia",
+        "rating": 5,
+        "review": "David es muy atento al que la persona necesita y desea. Las clases son muy dinámicas y divertida. Lo aconsejo sin dudas!",
+        "david_response": "Ya hemos dado la primera clase y Alexia tienen una energía y una predisposición muy buenas. Sin duda vamos a conseguir y superar los objetivos!"
+      },
+      {
+        "id": 5,
+        "student_name": "Diego",
+        "rating": 5,
+        "review": "David es un profesor dedicado y responsable, que sabe analizar un caso particular y se esfuerza por sacar lo mejor de cada uno, desde la primera clase. Llevo casi dos meses entrenando con David y desde el primer momento la comunicación fue muy buena, se adaptó enseguida a mi situación, aplicando una metodología adaptada 100% a mí, con una buena curva de esfuerzo y aprendizaje, para mantener la motivación y notar rápidamente los resultados del entrenamiento. Me gusta que las clases sean siempre con la idea de que te superes a tu mismo y no a los demás Muy recomendable!",
+        "david_response": "Ya hemos hablado para empezar la semana que viene!"
+      },
+      {
+        "id": 6,
+        "student_name": "ALICIA",
+        "rating": 4,
+        "review": "¡Excelente! David es puntual, muy agradable y se ha adaptado a mi horario sin poner pega alguna. El entrenamiento con él ha sido ameno y muy productivo. Sin duda lo recomiendo.",
+        "david_response": "Alicia tiene una gran predisposición desde el primer día. Además de una muy buena actitud hacia todo lo que le planteo."
+      },
+      {
+        "id": 7,
+        "student_name": "Jose",
+        "rating": 5,
+        "review": "¡David es un fenómeno! Siempre se encarga de que las clases sean amenas y productivas, y se notan los resultados. ¡Super recomendable!",
+        "david_response": "Muy buena actitud y predisposición."
+      },
+      {
+        "id": 8,
+        "student_name": "Andrea",
+        "rating": 5,
+        "review": "David prepara clases dinámicas enfocadas a los objetivos de cada uno. Está constantemente atento para que se hagan los ejercicios de forma correcta y te anima y motiva en todo momento.",
+        "david_response": "Hemos dado la primera clase de una forma muy amena y dinámica. Andrea tiene mucho potencial y conseguiremos los objetivos marcados sin ninguna duda."
+      },
+      {
+        "id": 9,
+        "student_name": "Pablo",
+        "rating": 5,
+        "review": "David es un entrenador disciplinado y metódico que sabe motivar al alumno para alcanzar los objetivos marcados. Además, sabe adaptarse con facilidad a los recursos que cada alumno tiene en su domicilio. En definitiva, es un entrenador excelente.",
+        "david_response": "Pablo tiene una predisposición tremenda a conseguir sus objetivos. Lo pone muy fácil en cuanto a los entrenamientos y tiene muchas ganas de mejorar."
+      }
+    ],
+    "summary": {
+      "common_themes": [
+        "Personalized training approach",
+        "Professional and dedicated trainer",
+        "Motivating and encouraging",
+        "Adaptable to individual needs and resources",
+        "Clear explanations and guidance",
+        "Dynamic and fun classes",
+        "Visible results",
+        "Excellent communication",
+        "Punctual and reliable"
+      ],
+      "rating_distribution": {
+        "5_stars": 8,
+        "4_stars": 1,
+        "3_stars": 0,
+        "2_stars": 0,
+        "1_star": 0
+      }
+    }
+  }
+} 

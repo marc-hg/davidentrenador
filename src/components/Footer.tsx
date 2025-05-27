@@ -108,27 +108,6 @@ const Footer: React.FC = () => {
             </nav>
           </div>
 
-          {/* Middle Column - Opening Hours */}
-          <div>
-            <h2 className="text-3xl font-bold mb-6 relative inline-block">
-              Horario
-              <span className="absolute -bottom-2 left-0 w-1/2 h-1 bg-red-600"></span>
-            </h2>
-            <ul className="mt-8 space-y-2">
-              <li className="flex justify-between">
-                <span className="text-gray-400">Lunes - Viernes:</span>
-                <span className="text-white">7:00 - 22:00</span>
-              </li>
-              <li className="flex justify-between">
-                <span className="text-gray-400">Sábado:</span>
-                <span className="text-white">9:00 - 18:00</span>
-              </li>
-              <li className="flex justify-between">
-                <span className="text-gray-400">Domingo:</span>
-                <span className="text-white">Cerrado</span>
-              </li>
-            </ul>
-          </div>
 
           {/* Right Column - Contact Info */}
           <div className="">
