@@ -250,7 +250,7 @@ const IndexPage: React.FC<PageProps> = () => {
       <section className="bg-black py-12 sm:py-16 lg:py-20 px-4 sm:px-8">
         <div className="container mx-auto">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl text-center font-bold mb-12 sm:mb-16 lg:mb-20 text-white">
-            Entrenador personal en Madrid
+            Entrenador personal en A Coruña
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 sm:gap-8 lg:gap-10 max-w-5xl mx-auto">
@@ -459,7 +459,7 @@ const IndexPage: React.FC<PageProps> = () => {
               para
             </h1>
             <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-6xl font-bold mb-6 sm:mb-8 text-black">
-              gimnasios en Madrid
+              gimnasios en A Coruña
             </h2>
             <h3 className="text-lg sm:text-xl md:text-2xl font-bold mb-6 sm:mb-8 text-white">
               Entrenamientos adaptados a tus necesidades

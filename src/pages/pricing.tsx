@@ -76,7 +76,7 @@ const PricingPage: React.FC<PageProps> = () => {
           </div>
 
           <p className="text-center text-red-700 italic mt-12 sm:mt-16 text-sm sm:text-base">
-            *Consultar tarifas para entrenamientos fuera de Madrid.
+            *Consultar tarifas para entrenamientos fuera de A Coruña.
           </p>
         </div>
       </div>

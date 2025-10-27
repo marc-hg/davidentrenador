@@ -22,7 +22,7 @@ const AboutPage: React.FC<PageProps> = () => {
         <div className="relative h-full flex items-center justify-center">
           <div className="text-center max-w-5xl px-4">
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold text-white leading-tight drop-shadow-lg">
-              Conoce a tu entrenador personalizado en Madrid
+              Conoce a tu entrenador personalizado en A Coruña
             </h1>
           </div>
         </div>
