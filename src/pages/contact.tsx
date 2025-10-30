@@ -130,7 +130,7 @@ const ContactPage: React.FC<PageProps> = () => {
                 </div>
               </a>
               <h3 className="text-xl sm:text-2xl mb-1 sm:mb-2">Email</h3>
-              <p className="text-lg sm:text-xl break-all">ramos_213@hotmail.com</p>
+              <p className="text-lg sm:text-xl break-all whitespace-nowrap">ramos_213@hotmail.com</p>
             </div>
           </div>
         </div>

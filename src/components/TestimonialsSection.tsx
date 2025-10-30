@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import testimonialsData from "../testimonials.json";
 
 interface TestimonialsSectionProps {
@@ -13,15 +13,6 @@ const TestimonialsSection: React.FC<TestimonialsSectionProps> = ({
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isTransitioning, setIsTransitioning] = useState(false);
   const reviews = testimonialsData.testimonials.reviews;
-
-  // Auto-cycle through testimonials every 5 seconds
-  useEffect(() => {
-    const interval = setInterval(() => {
-      handleSlideChange((prevIndex) => (prevIndex + 3) % reviews.length);
-    }, 5000);
-
-    return () => clearInterval(interval);
-  }, [reviews.length]);
 
   // Handle slide change with transition
   const handleSlideChange = (newIndexOrFunction: number | ((prev: number) => number)) => {

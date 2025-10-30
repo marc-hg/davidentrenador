@@ -226,18 +226,6 @@ const IndexPage: React.FC<PageProps> = () => {
                 alt={"David Entrenador Personal"}
                 className={"rounded-lg w-full"}
               />
-              <div
-                className={
-                  "absolute bottom-2 sm:bottom-4 right-2 sm:right-4 bg-black bg-opacity-70 p-2 sm:p-4 rounded-lg"
-                }
-              >
-                <StaticImage
-                  src={"../images/logo.png"}
-                  alt={"Logo David Entrenador"}
-                  width={100}
-                  className="sm:w-[150px]"
-                />
-              </div>
             </div>
           </div>
         </div>

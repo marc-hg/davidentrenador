@@ -150,7 +150,7 @@ const Footer: React.FC = () => {
                 </svg>
                 <a
                   href="mailto:ramos_213@hotmail.com"
-                  className="text-red-500 hover:underline"
+                  className="text-red-500 hover:underline whitespace-nowrap"
                 >
                   ramos_213@hotmail.com
                 </a>
