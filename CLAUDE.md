@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Gatsby-based personal training website for "David Entrenador" - a personal trainer in A Coruña. The site is built with TypeScript, React, and Tailwind CSS, featuring a dark theme with red accents (#dc2626 / red-700).
+This is a Gatsby-based personal training website for "David Entrenador" - a personal trainer in Spain . The site is built with TypeScript, React, and Tailwind CSS, featuring a dark theme with red accents (#dc2626 / red-700).
 
 ## Development Commands
 

@@ -1,6 +1,6 @@
 # David Entrenador - Personal Training Website
 
-A modern, responsive website for David Entrenador, a personal trainer based in A Coruña. Built with Gatsby, React, TypeScript, and Tailwind CSS.
+A modern, responsive website for David Entrenador, a personal trainer based in Spain. Built with Gatsby, React, TypeScript, and Tailwind CSS.
 
 **Live site:** [davidentrenador.es](https://davidentrenador.es)
 

@@ -20,7 +20,7 @@ const ServicesPage: React.FC<PageProps> = () => {
         <div className="relative h-full flex items-center justify-center">
           <div className="text-center max-w-5xl px-4">
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold text-white leading-tight drop-shadow-lg">
-              Servicios de entrenamiento en A Coruña
+              Servicios de entrenamiento
             </h1>
           </div>
         </div>
@@ -122,9 +122,6 @@ const ServicesPage: React.FC<PageProps> = () => {
               <p className="text-gray-200 text-sm sm:text-base">
                 Me desplazo a donde tú necesites: tu casa, el gimnasio, la
                 calle, o cualquier otro lugar que prefieras.
-              </p>
-              <p className="mt-3 sm:mt-4 text-gray-200 italic text-sm sm:text-base">
-                *Fuera de A Coruña consultar tarifas
               </p>
             </div>
 

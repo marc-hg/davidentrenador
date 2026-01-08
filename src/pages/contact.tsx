@@ -38,12 +38,7 @@ const ContactPage: React.FC<PageProps> = () => {
             </h3>
             <p className="text-base sm:text-lg text-gray-300">
               Contáctame para programar tu primera sesión o para obtener más
-              información sobre mis servicios. Estoy{" "}
-              <span className="text-red-500 font-medium">
-                disponible en A Coruña
-              </span>{" "}
-              y municipios cercanos, así como para{" "}
-              <span className="text-red-500 font-medium">sesiones online</span>.
+              información sobre mis servicios.
             </p>
           </div>
         </div>
@@ -53,7 +48,7 @@ const ContactPage: React.FC<PageProps> = () => {
       <div className="bg-red-800 py-12 sm:py-16 text-white">
         <div className="container mx-auto text-center px-4 sm:px-8">
           <h2 className="text-2xl sm:text-3xl md:text-4xl text-white mb-12 sm:mb-16">
-            Contacta ya con tu entrenador personal en A Coruña
+            Contacta ya con tu entrenador personal
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 sm:gap-12 max-w-4xl mx-auto">
