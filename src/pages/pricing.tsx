@@ -25,7 +25,7 @@ const PricingPage: React.FC<PageProps> = () => {
                 </h2>
               </div>
               <div className="p-6 sm:p-8 text-center">
-                <div className="text-4xl sm:text-5xl md:text-6xl font-bold mb-3 sm:mb-4 text-white">25€</div>
+                <div className="text-4xl sm:text-5xl md:text-6xl font-bold mb-3 sm:mb-4 text-white">30€</div>
                 <div className="text-gray-400 text-sm sm:text-base">por sesión</div>
               </div>
             </div>
@@ -39,7 +39,7 @@ const PricingPage: React.FC<PageProps> = () => {
                 </h2>
               </div>
               <div className="p-6 sm:p-8 text-center">
-                <div className="text-4xl sm:text-5xl md:text-6xl font-bold mb-3 sm:mb-4 text-white">30€</div>
+                <div className="text-4xl sm:text-5xl md:text-6xl font-bold mb-3 sm:mb-4 text-white">35€</div>
                 <div className="text-gray-400 text-sm sm:text-base">por sesión</div>
               </div>
             </div>
@@ -54,7 +54,7 @@ const PricingPage: React.FC<PageProps> = () => {
                 </h2>
               </div>
               <div className="p-6 sm:p-8 text-center">
-                <div className="text-4xl sm:text-5xl md:text-6xl font-bold mb-3 sm:mb-4 text-white">30€</div>
+                <div className="text-4xl sm:text-5xl md:text-6xl font-bold mb-3 sm:mb-4 text-white">35€</div>
                 <div className="text-gray-400 text-sm sm:text-base">por sesión</div>
               </div>
             </div>
@@ -69,7 +69,7 @@ const PricingPage: React.FC<PageProps> = () => {
                 </h2>
               </div>
               <div className="p-6 sm:p-8 text-center">
-                <div className="text-4xl sm:text-5xl md:text-6xl font-bold mb-3 sm:mb-4 text-white">25€</div>
+                <div className="text-4xl sm:text-5xl md:text-6xl font-bold mb-3 sm:mb-4 text-white">30€</div>
                 <div className="text-gray-400 text-sm sm:text-base">por persona</div>
               </div>
             </div>
@@ -78,89 +78,6 @@ const PricingPage: React.FC<PageProps> = () => {
         </div>
       </div>
 
-      {/* Bonos section */}
-      <div className="bg-gray-900 py-12 sm:py-16 px-4">
-        <div className="container mx-auto">
-          <h2 className="text-center text-2xl sm:text-3xl md:text-4xl mb-8 sm:mb-12">
-            <span className="text-white">Bonos de </span>
-            <span className="text-red-700">sesiones</span>
-          </h2>
-
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-6 max-w-6xl mx-auto">
-            {/* Bono 1 */}
-            <div className="rounded-lg overflow-hidden shadow-md bg-black border border-gray-800">
-              <div className="p-6 sm:p-8 text-center">
-                <h3 className="text-2xl sm:text-3xl font-bold mb-4 sm:mb-5 text-white">
-                  10 sesiones
-                </h3>
-                <div className="h-px w-16 sm:w-20 bg-red-700 mx-auto mb-4 sm:mb-5"></div>
-                <div className="mb-4 sm:mb-5">
-                  <div className="text-red-700 text-2xl sm:text-3xl font-bold mb-2">
-                    280€
-                  </div>
-                  <div className="text-gray-400 text-base sm:text-lg">
-                    A consumir en un mes
-                  </div>
-                </div>
-                <Link
-                  to="/contact"
-                  className="inline-block mt-3 sm:mt-4 border-2 border-red-700 text-red-700 px-6 sm:px-8 py-2 sm:py-3 rounded-md text-base sm:text-lg font-medium hover:bg-red-700 hover:text-white transition-colors w-full sm:w-auto"
-                >
-                  ¡Lo quiero!
-                </Link>
-              </div>
-            </div>
-
-            {/* Bono 2 */}
-            <div className="rounded-lg overflow-hidden shadow-md bg-black border border-gray-800">
-              <div className="p-6 sm:p-8 text-center">
-                <h3 className="text-2xl sm:text-3xl font-bold mb-4 sm:mb-5 text-white">
-                  15 sesiones
-                </h3>
-                <div className="h-px w-16 sm:w-20 bg-red-700 mx-auto mb-4 sm:mb-5"></div>
-                <div className="mb-4 sm:mb-5">
-                  <div className="text-red-700 text-2xl sm:text-3xl font-bold mb-2">
-                    400€
-                  </div>
-                  <div className="text-gray-400 text-base sm:text-lg">
-                    A consumir en 45 días
-                  </div>
-                </div>
-                <Link
-                  to="/contact"
-                  className="inline-block mt-3 sm:mt-4 border-2 border-red-700 text-red-700 px-6 sm:px-8 py-2 sm:py-3 rounded-md text-base sm:text-lg font-medium hover:bg-red-700 hover:text-white transition-colors w-full sm:w-auto"
-                >
-                  ¡Lo quiero!
-                </Link>
-              </div>
-            </div>
-
-            {/* Bono 3 */}
-            <div className="rounded-lg overflow-hidden shadow-md bg-black border border-gray-800">
-              <div className="p-6 sm:p-8 text-center">
-                <h3 className="text-2xl sm:text-3xl font-bold mb-4 sm:mb-5 text-white">
-                  20 sesiones
-                </h3>
-                <div className="h-px w-16 sm:w-20 bg-red-700 mx-auto mb-4 sm:mb-5"></div>
-                <div className="mb-4 sm:mb-5">
-                  <div className="text-red-700 text-2xl sm:text-3xl font-bold mb-2">
-                    500€
-                  </div>
-                  <div className="text-gray-400 text-base sm:text-lg">
-                    A consumir en dos meses
-                  </div>
-                </div>
-                <Link
-                  to="/contact"
-                  className="inline-block mt-3 sm:mt-4 border-2 border-red-700 text-red-700 px-6 sm:px-8 py-2 sm:py-3 rounded-md text-base sm:text-lg font-medium hover:bg-red-700 hover:text-white transition-colors w-full sm:w-auto"
-                >
-                  ¡Lo quiero!
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
 
       {/* Duration section */}
       <div className="bg-red-800 py-8 sm:py-12">
