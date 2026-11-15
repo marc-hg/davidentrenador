@@ -25,7 +25,7 @@ const PricingPage: React.FC<PageProps> = () => {
                 </h2>
               </div>
               <div className="p-6 sm:p-8 text-center">
-                <div className="text-4xl sm:text-5xl md:text-6xl font-bold mb-3 sm:mb-4 text-white">30€</div>
+                <div className="text-4xl sm:text-5xl md:text-6xl font-bold mb-3 sm:mb-4 text-white">20€</div>
                 <div className="text-gray-400 text-sm sm:text-base">por sesión</div>
               </div>
             </div>
